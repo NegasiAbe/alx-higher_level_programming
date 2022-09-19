@@ -1,6 +1,6 @@
-#!/usr/bin/python
-#2-rectangle.py
-"""Define a Rectangle class."""
+#!/usr/bin/python3
+# 2-rectangle.py
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
