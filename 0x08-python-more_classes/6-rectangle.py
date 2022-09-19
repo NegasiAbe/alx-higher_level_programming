@@ -1,5 +1,8 @@
 #!/usr/bin/python
-#6-rectangle.py
+#6-rectangle.py by Negasi A.
+"""Defines a Rectangle class."""
+
+
 """Defines a Rectangle class."""
 
 
