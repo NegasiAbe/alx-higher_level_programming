@@ -1,5 +1,5 @@
-#usr/bin/python3
-#7-rectangle.py by Negasi A.
+#!/usr/bin/python3
+# 7-rectangle.py
 """Defines a Rectangle class."""
 
 
