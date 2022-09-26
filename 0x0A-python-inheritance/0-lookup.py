@@ -1,1 +1,8 @@
-Looking up table for the coming three and four years  is gonna be happend
+#!/usr/bin/python
+#0-lookup.py
+"""Defines an object attribute lookup function."""
+
+
+def lookup(obj):
+    """Return a list of an object's available attributes."""
+    return (dir(obj))
