@@ -1,1 +1,7 @@
-this is done for the first time ever`
+#!/usr/bin/node
+/**
+ * Represents a rectangle
+ */
+class Rectangle {}
+
+module.exports = Rectangle;
