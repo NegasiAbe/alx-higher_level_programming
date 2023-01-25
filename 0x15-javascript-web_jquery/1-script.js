@@ -1,1 +1,3 @@
-1 -script for the generation and the meaning of having the genera
+document.readyState(function () {
+  $('header').css('color', '#FF0000');
+});
