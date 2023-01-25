@@ -1,1 +1,3 @@
-for changing the following applications and then after the whole 
+$('DIV#toggle_header').click(function () {
+  $('HEADER').toggleClass('green red');
+});
